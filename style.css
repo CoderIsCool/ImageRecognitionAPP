@@ -1,0 +1,19 @@
+body{
+    color:darkslateblue;
+    background-color: darkturquoise;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+
+}
+#camera{
+    border:2px groove darkslategrey;
+    width: 350px;
+    height: 350px;
+}
+.Objects, #Object_name, #Accurate{
+    color:rgb(5, 64, 83);
+
+}
